@@ -2,7 +2,7 @@
 // 1bb
 //
 const T_0_1_1bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -30,7 +30,7 @@ const T_0_1_1bb = [
 ];
 
 const T_0_2_1bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s',
@@ -46,7 +46,7 @@ const T_0_2_1bb = [
 ];
 
 const T_0_3_1bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s',
@@ -62,7 +62,7 @@ const T_0_3_1bb = [
 ];
 
 const T_1_0_1bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -90,7 +90,7 @@ const T_1_0_1bb = [
 ];
 
 const T_10_0_1bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -118,7 +118,7 @@ const T_10_0_1bb = [
 ];
 
 const T_100_0_1bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -146,7 +146,7 @@ const T_100_0_1bb = [
 ];
 
 const T_1_1_1bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -174,7 +174,7 @@ const T_1_1_1bb = [
 ];
 
 const T_10_1_1bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -202,7 +202,7 @@ const T_10_1_1bb = [
 ];
 
 const T_1_2_1bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s',
@@ -223,7 +223,7 @@ const T_1_2_1bb = [
 // 2bb
 //
 const T_0_1_2bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -248,7 +248,7 @@ const T_0_1_2bb = [
 ];
 
 const T_0_2_2bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s',
@@ -263,7 +263,7 @@ const T_0_2_2bb = [
 ];
 
 const T_0_3_2bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s',
@@ -279,7 +279,7 @@ const T_0_3_2bb = [
 ];
 
 const T_1_0_2bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -307,7 +307,7 @@ const T_1_0_2bb = [
 ];
 
 const T_10_0_2bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -335,7 +335,7 @@ const T_10_0_2bb = [
 ];
 
 const T_100_0_2bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -363,7 +363,7 @@ const T_100_0_2bb = [
 ];
 
 const T_1_1_2bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -387,7 +387,7 @@ const T_1_1_2bb = [
 ];
 
 const T_10_1_2bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -411,7 +411,7 @@ const T_10_1_2bb = [
 ];
 
 const T_1_2_2bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s',
@@ -431,7 +431,7 @@ const T_1_2_2bb = [
 // 3bb
 //
 const T_0_1_3bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -453,7 +453,7 @@ const T_0_1_3bb = [
 ];
 
 const T_0_2_3bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s',
@@ -468,7 +468,7 @@ const T_0_2_3bb = [
 ];
 
 const T_0_3_3bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s',
@@ -482,7 +482,7 @@ const T_0_3_3bb = [
 ];
 
 const T_1_0_3bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -509,7 +509,7 @@ const T_1_0_3bb = [
 ];
 
 const T_10_0_3bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -532,7 +532,7 @@ const T_10_0_3bb = [
 ];
 
 const T_100_0_3bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -557,7 +557,7 @@ const T_100_0_3bb = [
 ];
 
 const T_1_1_3bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s',
@@ -577,7 +577,7 @@ const T_1_1_3bb = [
 ];
 
 const T_10_1_3bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s',
@@ -597,7 +597,7 @@ const T_10_1_3bb = [
 ];
 
 const T_1_2_3bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s',
     'QJs', 'QTs', 'Q9s',
@@ -613,7 +613,7 @@ const T_1_2_3bb = [
 // 4bb
 //
 const T_0_1_4bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -635,7 +635,7 @@ const T_0_1_4bb = [
 ];
 
 const T_0_2_4bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s',
@@ -650,7 +650,7 @@ const T_0_2_4bb = [
 ];
 
 const T_0_3_4bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s',
@@ -664,7 +664,7 @@ const T_0_3_4bb = [
 ];
 
 const T_1_0_4bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -686,7 +686,7 @@ const T_1_0_4bb = [
 ];
 
 const T_10_0_4bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -710,7 +710,7 @@ const T_10_0_4bb = [
 ];
 
 const T_100_0_4bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -733,7 +733,7 @@ const T_100_0_4bb = [
 ];
 
 const T_1_1_4bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s',
@@ -749,7 +749,7 @@ const T_1_1_4bb = [
 ];
 
 const T_10_1_4bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s',
     'QJs', 'QTs', 'Q9s', 'Q8s',
@@ -764,7 +764,7 @@ const T_10_1_4bb = [
 ];
 
 const T_1_2_4bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s',
     'QJs', 'QTs',
@@ -778,7 +778,7 @@ const T_1_2_4bb = [
 // 5bb
 //
 const T_0_1_5bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -801,7 +801,7 @@ const T_0_1_5bb = [
 ];
 
 const T_0_2_5bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s',
@@ -818,7 +818,7 @@ const T_0_2_5bb = [
 ];
 
 const T_0_3_5bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s',
     'QJs', 'QTs', 'Q9s', 'Q8s',
@@ -833,7 +833,7 @@ const T_0_3_5bb = [
 ];
 
 const T_1_0_5bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -851,7 +851,7 @@ const T_1_0_5bb = [
 ];
 
 const T_10_0_5bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -869,7 +869,7 @@ const T_10_0_5bb = [
 ];
 
 const T_100_0_5bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s',
@@ -885,7 +885,7 @@ const T_100_0_5bb = [
 ];
 
 const T_1_1_5bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s',
     'QJs', 'QTs', 'Q9s', 'Q8s',
@@ -898,7 +898,7 @@ const T_1_1_5bb = [
 ];
 
 const T_10_1_5bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s',
     'QJs', 'QTs', 'Q9s',
@@ -910,7 +910,7 @@ const T_10_1_5bb = [
 ];
 
 const T_1_2_5bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s',
     'KQs', 'KJs', 'KTs',
     'QJs', 'QTs',
@@ -922,7 +922,7 @@ const T_1_2_5bb = [
 // 6bb
 //
 const T_0_1_6bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -945,7 +945,7 @@ const T_0_1_6bb = [
 ];
 
 const T_0_2_6bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s',
@@ -962,7 +962,7 @@ const T_0_2_6bb = [
 ];
 
 const T_0_3_6bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s',
     'QJs', 'QTs', 'Q9s', 'Q8s',
@@ -978,7 +978,7 @@ const T_0_3_6bb = [
 ];
 
 const T_1_0_6bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -995,7 +995,7 @@ const T_1_0_6bb = [
 ];
 
 const T_10_0_6bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s',
@@ -1009,7 +1009,7 @@ const T_10_0_6bb = [
 ];
 
 const T_100_0_6bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s',
     'QJs', 'QTs', 'Q9s', 'Q8s',
@@ -1023,7 +1023,7 @@ const T_100_0_6bb = [
 ];
 
 const T_1_1_6bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s',
     'QJs', 'QTs', 'Q9s',
@@ -1034,7 +1034,7 @@ const T_1_1_6bb = [
 ];
 
 const T_10_1_6bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s',
     'QJs', 'QTs',
@@ -1045,7 +1045,7 @@ const T_10_1_6bb = [
 ];
 
 const T_1_2_6bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s',
     'KQs', 'KJs', 'KTs',
     'QJs',
@@ -1057,7 +1057,7 @@ const T_1_2_6bb = [
 // 7bb
 //
 const T_0_1_7bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -1080,7 +1080,7 @@ const T_0_1_7bb = [
 ];
 
 const T_0_2_7bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s',
@@ -1098,7 +1098,7 @@ const T_0_2_7bb = [
 ];
 
 const T_0_3_7bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s',
     'QJs', 'QTs', 'Q9s',
@@ -1113,7 +1113,7 @@ const T_0_3_7bb = [
 ];
 
 const T_1_0_7bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -1128,7 +1128,7 @@ const T_1_0_7bb = [
 ];
 
 const T_10_0_7bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s',
     'QJs', 'QTs', 'Q9s', 'Q8s',
@@ -1141,7 +1141,7 @@ const T_10_0_7bb = [
 ];
 
 const T_100_0_7bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s',
     'QJs', 'QTs', 'Q9s',
@@ -1152,7 +1152,7 @@ const T_100_0_7bb = [
 ];
 
 const T_1_1_7bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s',
     'QJs', 'QTs', 'Q9s',
@@ -1163,7 +1163,7 @@ const T_1_1_7bb = [
 ];
 
 const T_10_1_7bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s',
     'QJs', 'QTs',
@@ -1172,7 +1172,7 @@ const T_10_1_7bb = [
 ];
 
 const T_1_2_7bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s',
     'KQs', 'KJs', 'KTs',
     'QJs',
@@ -1184,7 +1184,7 @@ const T_1_2_7bb = [
 // 8bb
 //
 const T_0_1_8bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -1206,7 +1206,7 @@ const T_0_1_8bb = [
 ];
 
 const T_0_2_8bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s',
     'QJs', 'QTs', 'Q9s', 'Q8s',
@@ -1223,7 +1223,7 @@ const T_0_2_8bb = [
 ];
 
 const T_0_3_8bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s',
     'QJs', 'QTs', 'Q9s', 'Q8s',
@@ -1238,7 +1238,7 @@ const T_0_3_8bb = [
 ];
 
 const T_1_0_8bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s',
@@ -1253,7 +1253,7 @@ const T_1_0_8bb = [
 ];
 
 const T_10_0_8bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s',
     'QJs', 'QTs', 'Q9s',
@@ -1264,7 +1264,7 @@ const T_10_0_8bb = [
 ];
 
 const T_100_0_8bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s',
     'QJs', 'QTs',
@@ -1275,7 +1275,7 @@ const T_100_0_8bb = [
 ];
 
 const T_1_1_8bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s',
     'QJs', 'QTs',
@@ -1285,7 +1285,7 @@ const T_1_1_8bb = [
 ];
 
 const T_10_1_8bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s',
     'KQs', 'KJs', 'KTs',
     'QJs',
@@ -1294,7 +1294,7 @@ const T_10_1_8bb = [
 ];
 
 const T_1_2_8bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s',
     'KQs', 'KJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o',
@@ -1305,7 +1305,7 @@ const T_1_2_8bb = [
 // 9bb
 //
 const T_0_1_9bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -1328,7 +1328,7 @@ const T_0_1_9bb = [
 ];
 
 const T_0_2_9bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s',
     'QJs', 'QTs', 'Q9s', 'Q8s',
@@ -1345,7 +1345,7 @@ const T_0_2_9bb = [
 ];
 
 const T_0_3_9bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s',
     'QJs', 'QTs', 'Q9s',
@@ -1360,7 +1360,7 @@ const T_0_3_9bb = [
 ];
 
 const T_1_0_9bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s',
@@ -1373,7 +1373,7 @@ const T_1_0_9bb = [
 ];
 
 const T_10_0_9bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s',
     'QJs', 'QTs', 'Q9s',
@@ -1384,7 +1384,7 @@ const T_10_0_9bb = [
 ];
 
 const T_100_0_9bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s',
     'QJs', 'QTs',
@@ -1393,7 +1393,7 @@ const T_100_0_9bb = [
 ];
 
 const T_1_1_9bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s',
     'QJs', 'QTs',
@@ -1402,7 +1402,7 @@ const T_1_1_9bb = [
 ];
 
 const T_10_1_9bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s',
     'KQs', 'KJs', 'KTs',
     'QJs',
@@ -1411,7 +1411,7 @@ const T_10_1_9bb = [
 ];
 
 const T_1_2_9bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s',
     'KQs', 'KJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o',
@@ -1422,7 +1422,7 @@ const T_1_2_9bb = [
 // 10bb
 //
 const T_0_1_10bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -1445,7 +1445,7 @@ const T_0_1_10bb = [
 ];
 
 const T_0_2_10bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s',
     'QJs', 'QTs', 'Q9s', 'Q8s',
@@ -1462,7 +1462,7 @@ const T_0_2_10bb = [
 ];
 
 const T_0_3_10bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s',
     'QJs', 'QTs', 'Q9s',
@@ -1477,7 +1477,7 @@ const T_0_3_10bb = [
 ];
 
 const T_1_0_10bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s',
@@ -1490,7 +1490,7 @@ const T_1_0_10bb = [
 ];
 
 const T_10_0_10bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s',
     'QJs', 'QTs',
@@ -1501,7 +1501,7 @@ const T_10_0_10bb = [
 ];
 
 const T_100_0_10bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs',
     'QJs',
@@ -1510,7 +1510,7 @@ const T_100_0_10bb = [
 ];
 
 const T_1_1_10bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s',
     'KQs', 'KJs', 'KTs',
     'QJs',
@@ -1519,7 +1519,7 @@ const T_1_1_10bb = [
 ];
 
 const T_10_1_10bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s',
     'KQs', 'KJs', 'KTs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o',
@@ -1527,7 +1527,7 @@ const T_10_1_10bb = [
 ];
 
 const T_1_2_10bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s',
     'KQs', 'KJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o'
@@ -1537,7 +1537,7 @@ const T_1_2_10bb = [
 // 11bb
 //
 const T_0_1_11bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -1558,7 +1558,7 @@ const T_0_1_11bb = [
 ];
 
 const T_0_2_11bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s',
     'QJs', 'QTs', 'Q9s', 'Q8s',
@@ -1574,7 +1574,7 @@ const T_0_2_11bb = [
 ];
 
 const T_0_3_11bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s',
     'QJs', 'QTs', 'Q9s',
@@ -1589,7 +1589,7 @@ const T_0_3_11bb = [
 ];
 
 const T_1_0_11bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s',
     'QJs', 'QTs', 'Q9s', 'Q8s',
@@ -1602,7 +1602,7 @@ const T_1_0_11bb = [
 ];
 
 const T_10_0_11bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s',
     'QJs', 'QTs',
@@ -1611,7 +1611,7 @@ const T_10_0_11bb = [
 ];
 
 const T_100_0_11bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s',
     'KQs', 'KJs', 'KTs',
     'QJs',
@@ -1620,7 +1620,7 @@ const T_100_0_11bb = [
 ];
 
 const T_1_1_11bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s',
     'KQs', 'KJs', 'KTs',
     'QJs',
@@ -1629,7 +1629,7 @@ const T_1_1_11bb = [
 ];
 
 const T_10_1_11bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s',
     'KQs', 'KJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o',
@@ -1637,7 +1637,7 @@ const T_10_1_11bb = [
 ];
 
 const T_1_2_11bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s',
     'KQs',
     'AKo', 'AQo', 'AJo', 'ATo'
@@ -1647,7 +1647,7 @@ const T_1_2_11bb = [
 // 12bb
 //
 const T_0_1_12bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s', 'Q2s',
@@ -1668,7 +1668,7 @@ const T_0_1_12bb = [
 ];
 
 const T_0_2_12bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s',
     'QJs', 'QTs', 'Q9s', 'Q8s',
@@ -1684,7 +1684,7 @@ const T_0_2_12bb = [
 ];
 
 const T_0_3_12bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s',
     'QJs', 'QTs', 'Q9s', 'Q8s',
@@ -1698,7 +1698,7 @@ const T_0_3_12bb = [
 ];
 
 const T_1_0_12bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s',
     'QJs', 'QTs', 'Q9s', 'Q8s',
@@ -1710,7 +1710,7 @@ const T_1_0_12bb = [
 ];
 
 const T_10_0_12bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs',
     'QJs', 'QTs',
@@ -1719,7 +1719,7 @@ const T_10_0_12bb = [
 ];
 
 const T_100_0_12bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A5s',
     'KQs', 'KJs', 'KTs',
     'QJs',
@@ -1728,7 +1728,7 @@ const T_100_0_12bb = [
 ];
 
 const T_1_1_12bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s',
     'KQs', 'KJs', 'KTs',
     'QJs',
@@ -1737,7 +1737,7 @@ const T_1_1_12bb = [
 ];
 
 const T_10_1_12bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s',
     'KQs', 'KJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o',
@@ -1745,7 +1745,7 @@ const T_10_1_12bb = [
 ];
 
 const T_1_2_12bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s',
     'KQs',
     'AKo', 'AQo', 'AJo', 'ATo'
@@ -1755,7 +1755,7 @@ const T_1_2_12bb = [
 // 13bb
 //
 const T_0_1_13bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s', 'Q3s',
@@ -1776,7 +1776,7 @@ const T_0_1_13bb = [
 ];
 
 const T_0_2_13bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s',
     'QJs', 'QTs', 'Q9s', 'Q8s',
@@ -1792,7 +1792,7 @@ const T_0_2_13bb = [
 ];
 
 const T_0_3_13bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s',
     'QJs', 'QTs', 'Q9s', 'Q8s',
@@ -1805,7 +1805,7 @@ const T_0_3_13bb = [
 ];
 
 const T_1_0_13bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s',
     'QJs', 'QTs', 'Q9s', 'Q8s',
@@ -1816,7 +1816,7 @@ const T_1_0_13bb = [
 ];
 
 const T_10_0_13bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs',
     'QJs',
@@ -1825,7 +1825,7 @@ const T_10_0_13bb = [
 ];
 
 const T_100_0_13bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s',
     'KQs', 'KJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o',
@@ -1833,7 +1833,7 @@ const T_100_0_13bb = [
 ];
 
 const T_1_1_13bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s',
     'KQs', 'KJs', 'KTs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o',
@@ -1841,14 +1841,14 @@ const T_1_1_13bb = [
 ];
 
 const T_10_1_13bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s',
     'KQs', 'KJs',
     'AKo', 'AQo', 'AJo', 'ATo'
 ];
 
 const T_1_2_13bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s',
     'KQs',
     'AKo', 'AQo', 'AJo', 'ATo'
@@ -1858,7 +1858,7 @@ const T_1_2_13bb = [
 // 14bb
 //
 const T_0_1_14bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s',
@@ -1879,7 +1879,7 @@ const T_0_1_14bb = [
 ];
 
 const T_0_2_14bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s',
     'QJs', 'QTs', 'Q9s', 'Q8s',
@@ -1894,7 +1894,7 @@ const T_0_2_14bb = [
 ];
 
 const T_0_3_14bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s',
     'QJs', 'QTs', 'Q9s',
@@ -1907,7 +1907,7 @@ const T_0_3_14bb = [
 ];
 
 const T_1_0_14bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s',
     'QJs', 'QTs', 'Q9s',
@@ -1918,7 +1918,7 @@ const T_1_0_14bb = [
 ];
 
 const T_10_0_14bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s',
     'KQs', 'KJs', 'KTs',
     'QJs',
@@ -1927,7 +1927,7 @@ const T_10_0_14bb = [
 ];
 
 const T_100_0_14bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s',
     'KQs', 'KJs',
     'AKo', 'AQo', 'AJo', 'ATo',
@@ -1935,7 +1935,7 @@ const T_100_0_14bb = [
 ];
 
 const T_1_1_14bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s',
     'KQs', 'KJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o',
@@ -1943,14 +1943,14 @@ const T_1_1_14bb = [
 ];
 
 const T_10_1_14bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s',
     'KQs',
     'AKo', 'AQo', 'AJo', 'ATo'
 ];
 
 const T_1_2_14bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66',
     'AKs', 'AQs', 'AJs', 'ATs',
     'KQs',
     'AKo', 'AQo', 'AJo', 'ATo'
@@ -1960,7 +1960,7 @@ const T_1_2_14bb = [
 // 15bb
 //
 const T_0_1_15bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s',
@@ -1980,7 +1980,7 @@ const T_0_1_15bb = [
 ];
 
 const T_0_2_15bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s',
     'QJs', 'QTs', 'Q9s', 'Q8s',
@@ -1995,7 +1995,7 @@ const T_0_2_15bb = [
 ];
 
 const T_0_3_15bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s',
     'KQs', 'KJs', 'KTs', 'K9s',
     'QJs', 'QTs', 'Q9s',
@@ -2008,7 +2008,7 @@ const T_0_3_15bb = [
 ];
 
 const T_1_0_15bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s',
     'QJs', 'QTs', 'Q9s',
@@ -2019,7 +2019,7 @@ const T_1_0_15bb = [
 ];
 
 const T_10_0_15bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s',
     'KQs', 'KJs', 'KTs',
     'QJs',
@@ -2028,7 +2028,7 @@ const T_10_0_15bb = [
 ];
 
 const T_100_0_15bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s',
     'KQs',
     'AKo', 'AQo', 'AJo', 'ATo',
@@ -2036,7 +2036,7 @@ const T_100_0_15bb = [
 ];
 
 const T_1_1_15bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s',
     'KQs', 'KJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o',
@@ -2044,14 +2044,14 @@ const T_1_1_15bb = [
 ];
 
 const T_10_1_15bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66',
     'AKs', 'AQs', 'AJs', 'ATs',
     'KQs',
     'AKo', 'AQo', 'AJo', 'ATo'
 ];
 
 const T_1_2_15bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66',
     'AKs', 'AQs', 'AJs', 'ATs',
     'KQs',
     'AKo', 'AQo', 'AJo'
@@ -2061,7 +2061,7 @@ const T_1_2_15bb = [
 // 16bb
 //
 const T_0_1_16bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
     'QJs', 'QTs', 'Q9s', 'Q8s', 'Q7s', 'Q6s', 'Q5s', 'Q4s',
@@ -2081,7 +2081,7 @@ const T_0_1_16bb = [
 ];
 
 const T_0_2_16bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s',
     'QJs', 'QTs', 'Q9s',
@@ -2096,7 +2096,7 @@ const T_0_2_16bb = [
 ];
 
 const T_0_3_16bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o', '22o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A5s', 'A4s',
     'KQs', 'KJs', 'KTs', 'K9s',
     'QJs', 'QTs', 'Q9s',
@@ -2109,7 +2109,7 @@ const T_0_3_16bb = [
 ];
 
 const T_1_0_16bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o', '33o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s',
     'QJs', 'QTs', 'Q9s',
@@ -2120,7 +2120,7 @@ const T_1_0_16bb = [
 ];
 
 const T_10_0_16bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o', '44o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s',
     'KQs', 'KJs', 'KTs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o',
@@ -2128,14 +2128,14 @@ const T_10_0_16bb = [
 ];
 
 const T_100_0_16bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s',
     'KQs',
     'AKo', 'AQo', 'AJo', 'ATo'
 ];
 
 const T_1_1_16bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o', '55o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s',
     'KQs', 'KJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o',
@@ -2143,14 +2143,14 @@ const T_1_1_16bb = [
 ];
 
 const T_10_1_16bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o', '66o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66',
     'AKs', 'AQs', 'AJs', 'ATs',
     'KQs',
     'AKo', 'AQo', 'AJo'
 ];
 
 const T_1_2_16bb = [
-    'AAo', 'KKo', 'QQo', 'JJo', 'TTo', '99o', '88o', '77o',
+    'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77',
     'AKs', 'AQs', 'AJs', 'ATs',
     'KQs',
     'AKo', 'AQo', 'AJo'
@@ -2159,41 +2159,14 @@ const T_1_2_16bb = [
 
 //////////////////////////////////////////////////
 
-const numericRanks = {
-    'A': 14,
-    'K': 13,
-    'Q': 12,
-    'J': 11,
-    'T': 10,
-    '9': 9,
-    '8': 8,
-    '7': 7,
-    '6': 6,
-    '5': 5,
-    '4': 4,
-    '3': 3,
-    '2': 2
-};
+const { represent } = require('@openhud/helpers');
 
-function toHandRepresentation(hand) {
-    const card1rank = hand[0][0];
-    const card1suit = hand[0][1];
-    const card2rank = hand[1][0];
-    const card2suit = hand[1][1];
-
-    const repSuit = (card1suit === card2suit) ? 's' : 'o';
-    const ranks = [card1rank, card2rank];
-    ranks.sort((a, b) => (numericRanks[b] - numericRanks[a]));
-
-    return `${ranks.join('')}${repSuit}`;
-}
-
-function shouldJam(seats, community, bb = 4) {
+const shouldJam = (seats, community, bb = 4) => {
     // TODO: multiple shoves before you
     const myPos = seats.findIndex(seat => seat.isMe);
     const mySeat = seats[myPos];
     const myHand = mySeat.cards;
-    const myHandRep = toHandRepresentation(myHand);
+    const myHandRep = represent({hand: myHand});
     const firstJamPos = (() => {
         for (let i = 0; i < myPos; ++i) {
             if (seats[i].stack === 0) {
@@ -2258,7 +2231,7 @@ function shouldJam(seats, community, bb = 4) {
     const table = eval(tableName);
 
     return table.includes(myHandRep);
-}
+};
 
 //////////
 
