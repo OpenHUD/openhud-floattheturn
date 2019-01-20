@@ -1,7 +1,7 @@
 //
 // 1bb
 //
-const T_0_1_1bb = [
+const T_0_1_1bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -27,9 +27,9 @@ const T_0_1_1bb = [
     '54o', '53o', '52o',
     '43o', '42o',
     '32o'
-];
+]);
 
-const T_0_2_1bb = [
+const T_0_2_1bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -43,9 +43,9 @@ const T_0_2_1bb = [
     'QJo', 'QTo', 'Q9o', 'Q8o',
     'JTo', 'J9o', 'J8o',
     'T9o', 'T8o'
-];
+]);
 
-const T_0_3_1bb = [
+const T_0_3_1bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -59,9 +59,9 @@ const T_0_3_1bb = [
     'QJo', 'QTo', 'Q9o', 'Q8o',
     'JTo', 'J9o', 'J8o',
     'T9o', 'T8o'
-];
+]);
 
-const T_1_0_1bb = [
+const T_1_0_1bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -87,9 +87,9 @@ const T_1_0_1bb = [
     '54o', '53o', '52o',
     '43o', '42o',
     '32o'
-];
+]);
 
-const T_10_0_1bb = [
+const T_10_0_1bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -115,9 +115,9 @@ const T_10_0_1bb = [
     '54o', '53o', '52o',
     '43o', '42o',
     '32o'
-];
+]);
 
-const T_100_0_1bb = [
+const T_100_0_1bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -143,9 +143,9 @@ const T_100_0_1bb = [
     '54o', '53o', '52o',
     '43o', '42o',
     '32o'
-];
+]);
 
-const T_1_1_1bb = [
+const T_1_1_1bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -171,9 +171,9 @@ const T_1_1_1bb = [
     '54o', '53o', '52o',
     '43o', '42o',
     '32o'
-];
+]);
 
-const T_10_1_1bb = [
+const T_10_1_1bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -199,9 +199,9 @@ const T_10_1_1bb = [
     '54o', '53o', '52o',
     '43o', '42o',
     '32o'
-];
+]);
 
-const T_1_2_1bb = [
+const T_1_2_1bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -217,12 +217,12 @@ const T_1_2_1bb = [
     'QJo', 'QTo', 'Q9o', 'Q8o',
     'JTo', 'J9o',
     'T9o'
-];
+]);
 
 //
 // 2bb
 //
-const T_0_1_2bb = [
+const T_0_1_2bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -245,9 +245,9 @@ const T_0_1_2bb = [
     '76o', '75o', '74o',
     '65o', '64o',
     '54o'
-];
+]);
 
-const T_0_2_2bb = [
+const T_0_2_2bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -260,9 +260,9 @@ const T_0_2_2bb = [
     'QJo', 'QTo', 'Q9o', 'Q8o',
     'JTo', 'J9o', 'J8o',
     'T9o'
-];
+]);
 
-const T_0_3_2bb = [
+const T_0_3_2bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -276,9 +276,9 @@ const T_0_3_2bb = [
     'QJo', 'QTo', 'Q9o', 'Q8o',
     'JTo', 'J9o',
     'T9o'
-];
+]);
 
-const T_1_0_2bb = [
+const T_1_0_2bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -304,9 +304,9 @@ const T_1_0_2bb = [
     '54o', '53o', '52o',
     '43o', '42o',
     '32o'
-];
+]);
 
-const T_10_0_2bb = [
+const T_10_0_2bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -332,9 +332,9 @@ const T_10_0_2bb = [
     '54o', '53o', '52o',
     '43o', '42o',
     '32o'
-];
+]);
 
-const T_100_0_2bb = [
+const T_100_0_2bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -360,9 +360,9 @@ const T_100_0_2bb = [
     '54o', '53o', '52o',
     '43o', '42o',
     '32o'
-];
+]);
 
-const T_1_1_2bb = [
+const T_1_1_2bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -384,9 +384,9 @@ const T_1_1_2bb = [
     '87o', '86o',
     '76o',
     '65o'
-];
+]);
 
-const T_10_1_2bb = [
+const T_10_1_2bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -408,9 +408,9 @@ const T_10_1_2bb = [
     '87o', '86o',
     '76o',
     '65o'
-];
+]);
 
-const T_1_2_2bb = [
+const T_1_2_2bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -425,12 +425,12 @@ const T_1_2_2bb = [
     'QJo', 'QTo', 'Q9o',
     'JTo', 'J9o',
     'T9o'
-];
+]);
 
 //
 // 3bb
 //
-const T_0_1_3bb = [
+const T_0_1_3bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -450,9 +450,9 @@ const T_0_1_3bb = [
     '98o', '97o', '96o', '95o',
     '87o', '86o', '85o',
     '76o'
-];
+]);
 
-const T_0_2_3bb = [
+const T_0_2_3bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -465,9 +465,9 @@ const T_0_2_3bb = [
     'QJo', 'QTo', 'Q9o', 'Q8o',
     'JTo', 'J9o',
     'T9o'
-];
+]);
 
-const T_0_3_3bb = [
+const T_0_3_3bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -479,9 +479,9 @@ const T_0_3_3bb = [
     'KQo', 'KJo', 'KTo', 'K9o', 'K8o', 'K7o',
     'QJo', 'QTo', 'Q9o',
     'JTo', 'J9o'
-];
+]);
 
-const T_1_0_3bb = [
+const T_1_0_3bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -506,9 +506,9 @@ const T_1_0_3bb = [
     '65o', '64o', '63o',
     '54o', '53o',
     '43o'
-];
+]);
 
-const T_10_0_3bb = [
+const T_10_0_3bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -529,9 +529,9 @@ const T_10_0_3bb = [
     '87o', '86o', '85o', '84o',
     '76o', '75o', '74o', '73o',
     '65o', '64o', '63o'
-];
+]);
 
-const T_100_0_3bb = [
+const T_100_0_3bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -554,9 +554,9 @@ const T_100_0_3bb = [
     '76o', '75o', '74o', '73o',
     '65o', '64o', '63o',
     '43o'
-];
+]);
 
-const T_1_1_3bb = [
+const T_1_1_3bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -574,9 +574,9 @@ const T_1_1_3bb = [
     'JTo', 'J9o', 'J8o',
     'T9o', 'T8o',
     '98o'
-];
+]);
 
-const T_10_1_3bb = [
+const T_10_1_3bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -594,9 +594,9 @@ const T_10_1_3bb = [
     'JTo', 'J9o',
     'T9o',
     '98o'
-];
+]);
 
-const T_1_2_3bb = [
+const T_1_2_3bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s',
@@ -607,12 +607,12 @@ const T_1_2_3bb = [
     'KQo', 'KJo', 'KTo',
     'QJo', 'QTo',
     'JTo'
-];
+]);
 
 //
 // 4bb
 //
-const T_0_1_4bb = [
+const T_0_1_4bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -632,9 +632,9 @@ const T_0_1_4bb = [
     '98o', '97o', '96o',
     '87o', '86o',
     '76o'
-];
+]);
 
-const T_0_2_4bb = [
+const T_0_2_4bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -647,9 +647,9 @@ const T_0_2_4bb = [
     'QJo', 'QTo', 'Q9o', 'Q8o',
     'JTo', 'J9o',
     'T9o'
-];
+]);
 
-const T_0_3_4bb = [
+const T_0_3_4bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -661,9 +661,9 @@ const T_0_3_4bb = [
     'KQo', 'KJo', 'KTo', 'K9o', 'K8o', 'K7o',
     'QJo', 'QTo', 'Q9o',
     'JTo'
-];
+]);
 
-const T_1_0_4bb = [
+const T_1_0_4bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -683,9 +683,9 @@ const T_1_0_4bb = [
     '98o', '97o', '96o',
     '87o', '86o',
     '76o'
-];
+]);
 
-const T_10_0_4bb = [
+const T_10_0_4bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -707,9 +707,9 @@ const T_10_0_4bb = [
     '87o',
     '76o',
     '65o'
-];
+]);
 
-const T_100_0_4bb = [
+const T_100_0_4bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -730,9 +730,9 @@ const T_100_0_4bb = [
     '98o',
     '87o',
     '76o'
-];
+]);
 
-const T_1_1_4bb = [
+const T_1_1_4bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -746,9 +746,9 @@ const T_1_1_4bb = [
     'KQo', 'KJo', 'KTo', 'K9o', 'K8o', 'K7o',
     'QJo', 'QTo', 'Q9o',
     'JTo'
-];
+]);
 
-const T_10_1_4bb = [
+const T_10_1_4bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s',
@@ -761,9 +761,9 @@ const T_10_1_4bb = [
     'KQo', 'KJo', 'KTo', 'K9o',
     'QJo', 'QTo',
     'JTo'
-];
+]);
 
-const T_1_2_4bb = [
+const T_1_2_4bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s',
@@ -772,12 +772,12 @@ const T_1_2_4bb = [
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o',
     'KQo', 'KJo', 'KTo',
     'QJo'
-];
+]);
 
 //
 // 5bb
 //
-const T_0_1_5bb = [
+const T_0_1_5bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -798,9 +798,9 @@ const T_0_1_5bb = [
     '98o', '97o',
     '87o', '86o',
     '76o'
-];
+]);
 
-const T_0_2_5bb = [
+const T_0_2_5bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -815,9 +815,9 @@ const T_0_2_5bb = [
     'QJo', 'QTo', 'Q9o',
     'JTo', 'J9o',
     'T9o'
-];
+]);
 
-const T_0_3_5bb = [
+const T_0_3_5bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s',
@@ -830,9 +830,9 @@ const T_0_3_5bb = [
     'KQo', 'KJo', 'KTo', 'K9o',
     'QJo', 'QTo',
     'JTo'
-];
+]);
 
-const T_1_0_5bb = [
+const T_1_0_5bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -848,9 +848,9 @@ const T_1_0_5bb = [
     'JTo', 'J9o', 'J8o', 'J7o', 'J6o', 'J5o',
     'T9o', 'T8o', 'T7o',
     '98o', '97o'
-];
+]);
 
-const T_10_0_5bb = [
+const T_10_0_5bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -866,9 +866,9 @@ const T_10_0_5bb = [
     'QJo', 'QTo', 'Q9o', 'Q8o',
     'JTo', 'J9o',
     'T9o'
-];
+]);
 
-const T_100_0_5bb = [
+const T_100_0_5bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -882,9 +882,9 @@ const T_100_0_5bb = [
     'KQo', 'KJo', 'KTo', 'K9o', 'K8o', 'K7o', 'K6o',
     'QJo', 'QTo', 'Q9o',
     'JTo'
-];
+]);
 
-const T_1_1_5bb = [
+const T_1_1_5bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s',
@@ -895,9 +895,9 @@ const T_1_1_5bb = [
     'KQo', 'KJo', 'KTo', 'K9o', 'K8o',
     'QJo', 'QTo',
     'JTo'
-];
+]);
 
-const T_10_1_5bb = [
+const T_10_1_5bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s',
@@ -907,21 +907,21 @@ const T_10_1_5bb = [
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o', 'A6o', 'A5o', 'A4o', 'A3o',
     'KQo', 'KJo', 'KTo',
     'QJo', 'QTo'
-];
+]);
 
-const T_1_2_5bb = [
+const T_1_2_5bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s',
     'KQs', 'KJs', 'KTs',
     'QJs', 'QTs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o',
     'KQo', 'KJo'
-];
+]);
 
 //
 // 6bb
 //
-const T_0_1_6bb = [
+const T_0_1_6bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -942,9 +942,9 @@ const T_0_1_6bb = [
     '98o', '97o',
     '87o', '86o',
     '76o'
-];
+]);
 
-const T_0_2_6bb = [
+const T_0_2_6bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -959,9 +959,9 @@ const T_0_2_6bb = [
     'KQo', 'KJo', 'KTo', 'K9o', 'K8o', 'K7o',
     'QJo', 'QTo', 'Q9o',
     'JTo'
-];
+]);
 
-const T_0_3_6bb = [
+const T_0_3_6bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s',
@@ -975,9 +975,9 @@ const T_0_3_6bb = [
     'KQo', 'KJo', 'KTo', 'K9o',
     'QJo', 'QTo',
     'JTo'
-];
+]);
 
-const T_1_0_6bb = [
+const T_1_0_6bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -992,9 +992,9 @@ const T_1_0_6bb = [
     'JTo', 'J9o', 'J8o', 'J7o',
     'T9o', 'T8o',
     '98o'
-];
+]);
 
-const T_10_0_6bb = [
+const T_10_0_6bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -1006,9 +1006,9 @@ const T_10_0_6bb = [
     'KQo', 'KJo', 'KTo', 'K9o', 'K8o', 'K7o', 'K6o',
     'QJo', 'QTo', 'Q9o',
     'JTo'
-];
+]);
 
-const T_100_0_6bb = [
+const T_100_0_6bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s',
@@ -1020,9 +1020,9 @@ const T_100_0_6bb = [
     'KQo', 'KJo', 'KTo', 'K9o',
     'QJo', 'QTo',
     'JTo'
-];
+]);
 
-const T_1_1_6bb = [
+const T_1_1_6bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s',
@@ -1031,9 +1031,9 @@ const T_1_1_6bb = [
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o', 'A6o', 'A5o', 'A4o', 'A3o', 'A2o',
     'KQo', 'KJo', 'KTo', 'K9o',
     'QJo', 'QTo'
-];
+]);
 
-const T_10_1_6bb = [
+const T_10_1_6bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s',
@@ -1042,21 +1042,21 @@ const T_10_1_6bb = [
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o', 'A6o', 'A5o',
     'KQo', 'KJo', 'KTo',
     'QJo'
-];
+]);
 
-const T_1_2_6bb = [
+const T_1_2_6bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s',
     'KQs', 'KJs', 'KTs',
     'QJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o',
     'KQo', 'KJo'
-];
+]);
 
 //
 // 7bb
 //
-const T_0_1_7bb = [
+const T_0_1_7bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -1077,9 +1077,9 @@ const T_0_1_7bb = [
     '98o', '97o',
     '87o', '86o',
     '76o'
-];
+]);
 
-const T_0_2_7bb = [
+const T_0_2_7bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -1095,9 +1095,9 @@ const T_0_2_7bb = [
     'QJo', 'QTo',
     'JTo',
     'T9o'
-];
+]);
 
-const T_0_3_7bb = [
+const T_0_3_7bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s',
@@ -1110,9 +1110,9 @@ const T_0_3_7bb = [
     'KQo', 'KJo', 'KTo',
     'QJo', 'QTo',
     'JTo'
-];
+]);
 
-const T_1_0_7bb = [
+const T_1_0_7bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -1125,9 +1125,9 @@ const T_1_0_7bb = [
     'QJo', 'QTo', 'Q9o', 'Q8o', 'Q7o', 'Q6o',
     'JTo', 'J9o', 'J8o',
     'T9o'
-];
+]);
 
-const T_10_0_7bb = [
+const T_10_0_7bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s',
@@ -1138,9 +1138,9 @@ const T_10_0_7bb = [
     'KQo', 'KJo', 'KTo', 'K9o', 'K8o',
     'QJo', 'QTo',
     'JTo'
-];
+]);
 
-const T_100_0_7bb = [
+const T_100_0_7bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s',
@@ -1149,9 +1149,9 @@ const T_100_0_7bb = [
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o', 'A6o', 'A5o', 'A4o', 'A3o', 'A2o',
     'KQo', 'KJo', 'KTo',
     'QJo', 'QTo'
-];
+]);
 
-const T_1_1_7bb = [
+const T_1_1_7bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s',
@@ -1160,30 +1160,30 @@ const T_1_1_7bb = [
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o', 'A6o', 'A5o', 'A4o',
     'KQo', 'KJo', 'KTo',
     'QJo'
-];
+]);
 
-const T_10_1_7bb = [
+const T_10_1_7bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s',
     'QJs', 'QTs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o',
     'KQo', 'KJo'
-];
+]);
 
-const T_1_2_7bb = [
+const T_1_2_7bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s',
     'KQs', 'KJs', 'KTs',
     'QJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o',
     'KQo'
-];
+]);
 
 //
 // 8bb
 //
-const T_0_1_8bb = [
+const T_0_1_8bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -1203,9 +1203,9 @@ const T_0_1_8bb = [
     '98o', '97o',
     '87o',
     '76o'
-];
+]);
 
-const T_0_2_8bb = [
+const T_0_2_8bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s',
@@ -1220,9 +1220,9 @@ const T_0_2_8bb = [
     'KQo', 'KJo', 'KTo', 'K9o',
     'QJo', 'QTo',
     'JTo'
-];
+]);
 
-const T_0_3_8bb = [
+const T_0_3_8bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s',
@@ -1235,9 +1235,9 @@ const T_0_3_8bb = [
     'KQo', 'KJo', 'KTo',
     'QJo',
     'JTo'
-];
+]);
 
-const T_1_0_8bb = [
+const T_1_0_8bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -1250,9 +1250,9 @@ const T_1_0_8bb = [
     'QJo', 'QTo', 'Q9o', 'Q8o', 'Q7o',
     'JTo', 'J9o',
     'T9o'
-];
+]);
 
-const T_10_0_8bb = [
+const T_10_0_8bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s',
@@ -1261,9 +1261,9 @@ const T_10_0_8bb = [
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o', 'A6o', 'A5o', 'A4o', 'A3o', 'A2o',
     'KQo', 'KJo', 'KTo', 'K9o',
     'QJo', 'QTo'
-];
+]);
 
-const T_100_0_8bb = [
+const T_100_0_8bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s',
@@ -1272,9 +1272,9 @@ const T_100_0_8bb = [
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o', 'A6o', 'A5o', 'A4o',
     'KQo', 'KJo', 'KTo',
     'QJo'
-];
+]);
 
-const T_1_1_8bb = [
+const T_1_1_8bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s',
@@ -1282,29 +1282,29 @@ const T_1_1_8bb = [
     'JTs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o', 'A6o', 'A5o',
     'KQo', 'KJo', 'KTo'
-];
+]);
 
-const T_10_1_8bb = [
+const T_10_1_8bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s',
     'KQs', 'KJs', 'KTs',
     'QJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o',
     'KQo', 'KJo'
-];
+]);
 
-const T_1_2_8bb = [
+const T_1_2_8bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s',
     'KQs', 'KJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o',
     'KQo'
-];
+]);
 
 //
 // 9bb
 //
-const T_0_1_9bb = [
+const T_0_1_9bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -1325,9 +1325,9 @@ const T_0_1_9bb = [
     '98o', '97o',
     '87o',
     '76o'
-];
+]);
 
-const T_0_2_9bb = [
+const T_0_2_9bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s',
@@ -1342,9 +1342,9 @@ const T_0_2_9bb = [
     'KQo', 'KJo', 'KTo', 'K9o',
     'QJo', 'QTo',
     'JTo'
-];
+]);
 
-const T_0_3_9bb = [
+const T_0_3_9bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s',
@@ -1357,9 +1357,9 @@ const T_0_3_9bb = [
     'KQo', 'KJo', 'KTo',
     'QJo',
     'JTo'
-];
+]);
 
-const T_1_0_9bb = [
+const T_1_0_9bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -1370,9 +1370,9 @@ const T_1_0_9bb = [
     'KQo', 'KJo', 'KTo', 'K9o', 'K8o', 'K7o', 'K6o', 'K5o', 'K4o',
     'QJo', 'QTo', 'Q9o', 'Q8o',
     'JTo', 'J9o'
-];
+]);
 
-const T_10_0_9bb = [
+const T_10_0_9bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s',
@@ -1381,47 +1381,47 @@ const T_10_0_9bb = [
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o', 'A6o', 'A5o', 'A4o', 'A3o', 'A2o',
     'KQo', 'KJo', 'KTo',
     'QJo'
-];
+]);
 
-const T_100_0_9bb = [
+const T_100_0_9bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s',
     'QJs', 'QTs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o', 'A6o',
     'KQo', 'KJo'
-];
+]);
 
-const T_1_1_9bb = [
+const T_1_1_9bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s',
     'QJs', 'QTs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o',
     'KQo', 'KJo', 'KTo'
-];
+]);
 
-const T_10_1_9bb = [
+const T_10_1_9bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s',
     'KQs', 'KJs', 'KTs',
     'QJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o',
     'KQo'
-];
+]);
 
-const T_1_2_9bb = [
+const T_1_2_9bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s',
     'KQs', 'KJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o',
     'KQo'
-];
+]);
 
 //
 // 10bb
 //
-const T_0_1_10bb = [
+const T_0_1_10bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -1442,9 +1442,9 @@ const T_0_1_10bb = [
     '98o', '97o',
     '87o',
     '76o'
-];
+]);
 
-const T_0_2_10bb = [
+const T_0_2_10bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s',
@@ -1459,9 +1459,9 @@ const T_0_2_10bb = [
     'KQo', 'KJo', 'KTo',
     'QJo', 'QTo',
     'JTo'
-];
+]);
 
-const T_0_3_10bb = [
+const T_0_3_10bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s',
@@ -1474,9 +1474,9 @@ const T_0_3_10bb = [
     'KQo', 'KJo', 'KTo',
     'QJo',
     'JTo'
-];
+]);
 
-const T_1_0_10bb = [
+const T_1_0_10bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -1487,9 +1487,9 @@ const T_1_0_10bb = [
     'KQo', 'KJo', 'KTo', 'K9o', 'K8o', 'K7o', 'K6o', 'K5o',
     'QJo', 'QTo', 'Q9o',
     'JTo'
-];
+]);
 
-const T_10_0_10bb = [
+const T_10_0_10bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s',
@@ -1498,45 +1498,45 @@ const T_10_0_10bb = [
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o', 'A6o', 'A5o', 'A4o',
     'KQo', 'KJo', 'KTo',
     'QJo'
-];
+]);
 
-const T_100_0_10bb = [
+const T_100_0_10bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs',
     'QJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o',
     'KQo', 'KJo'
-];
+]);
 
-const T_1_1_10bb = [
+const T_1_1_10bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s',
     'KQs', 'KJs', 'KTs',
     'QJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o',
     'KQo', 'KJo'
-];
+]);
 
-const T_10_1_10bb = [
+const T_10_1_10bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s',
     'KQs', 'KJs', 'KTs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o',
     'KQo'
-];
+]);
 
-const T_1_2_10bb = [
+const T_1_2_10bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s',
     'KQs', 'KJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o'
-];
+]);
 
 //
 // 11bb
 //
-const T_0_1_11bb = [
+const T_0_1_11bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -1555,9 +1555,9 @@ const T_0_1_11bb = [
     'T9o', 'T8o',
     '98o',
     '87o'
-];
+]);
 
-const T_0_2_11bb = [
+const T_0_2_11bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s',
@@ -1571,9 +1571,9 @@ const T_0_2_11bb = [
     'KQo', 'KJo', 'KTo',
     'QJo', 'QTo',
     'JTo'
-];
+]);
 
-const T_0_3_11bb = [
+const T_0_3_11bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s',
@@ -1586,9 +1586,9 @@ const T_0_3_11bb = [
     'KQo', 'KJo',
     'QJo',
     'JTo'
-];
+]);
 
-const T_1_0_11bb = [
+const T_1_0_11bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s',
@@ -1599,54 +1599,54 @@ const T_1_0_11bb = [
     'KQo', 'KJo', 'KTo', 'K9o', 'K8o', 'K7o', 'K6o',
     'QJo', 'QTo', 'Q9o',
     'JTo'
-];
+]);
 
-const T_10_0_11bb = [
+const T_10_0_11bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s',
     'QJs', 'QTs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o', 'A6o', 'A5o',
     'KQo', 'KJo', 'KTo'
-];
+]);
 
-const T_100_0_11bb = [
+const T_100_0_11bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s',
     'KQs', 'KJs', 'KTs',
     'QJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o',
     'KQo', 'KJo'
-];
+]);
 
-const T_1_1_11bb = [
+const T_1_1_11bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s',
     'KQs', 'KJs', 'KTs',
     'QJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o',
     'KQo', 'KJo'
-];
+]);
 
-const T_10_1_11bb = [
+const T_10_1_11bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s',
     'KQs', 'KJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o',
     'KQo'
-];
+]);
 
-const T_1_2_11bb = [
+const T_1_2_11bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s',
     'KQs',
     'AKo', 'AQo', 'AJo', 'ATo'
-];
+]);
 
 //
 // 12bb
 //
-const T_0_1_12bb = [
+const T_0_1_12bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -1665,9 +1665,9 @@ const T_0_1_12bb = [
     'T9o', 'T8o',
     '98o',
     '87o'
-];
+]);
 
-const T_0_2_12bb = [
+const T_0_2_12bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s',
@@ -1681,9 +1681,9 @@ const T_0_2_12bb = [
     'KQo', 'KJo', 'KTo',
     'QJo', 'QTo',
     'JTo'
-];
+]);
 
-const T_0_3_12bb = [
+const T_0_3_12bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s',
@@ -1695,9 +1695,9 @@ const T_0_3_12bb = [
     'KQo', 'KJo',
     'QJo',
     'JTo'
-];
+]);
 
-const T_1_0_12bb = [
+const T_1_0_12bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s',
@@ -1707,54 +1707,54 @@ const T_1_0_12bb = [
     'KQo', 'KJo', 'KTo', 'K9o', 'K8o', 'K7o',
     'QJo', 'QTo',
     'JTo'
-];
+]);
 
-const T_10_0_12bb = [
+const T_10_0_12bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs',
     'QJs', 'QTs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o', 'A6o',
     'KQo', 'KJo'
-];
+]);
 
-const T_100_0_12bb = [
+const T_100_0_12bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A5s',
     'KQs', 'KJs', 'KTs',
     'QJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o',
     'KQo'
-];
+]);
 
-const T_1_1_12bb = [
+const T_1_1_12bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s',
     'KQs', 'KJs', 'KTs',
     'QJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o',
     'KQo'
-];
+]);
 
-const T_10_1_12bb = [
+const T_10_1_12bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s',
     'KQs', 'KJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o',
     'KQo'
-];
+]);
 
-const T_1_2_12bb = [
+const T_1_2_12bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s',
     'KQs',
     'AKo', 'AQo', 'AJo', 'ATo'
-];
+]);
 
 //
 // 13bb
 //
-const T_0_1_13bb = [
+const T_0_1_13bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -1773,9 +1773,9 @@ const T_0_1_13bb = [
     'T9o', 'T8o',
     '98o',
     '87o'
-];
+]);
 
-const T_0_2_13bb = [
+const T_0_2_13bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s',
@@ -1789,9 +1789,9 @@ const T_0_2_13bb = [
     'KQo', 'KJo', 'KTo',
     'QJo', 'QTo',
     'JTo'
-];
+]);
 
-const T_0_3_13bb = [
+const T_0_3_13bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s',
@@ -1802,9 +1802,9 @@ const T_0_3_13bb = [
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o',
     'KQo', 'KJo',
     'QJo'
-];
+]);
 
-const T_1_0_13bb = [
+const T_1_0_13bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s',
@@ -1813,51 +1813,51 @@ const T_1_0_13bb = [
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o', 'A6o', 'A5o', 'A4o', 'A3o', 'A2o',
     'KQo', 'KJo', 'KTo', 'K9o', 'K8o',
     'QJo', 'QTo'
-];
+]);
 
-const T_10_0_13bb = [
+const T_10_0_13bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs',
     'QJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o',
     'KQo', 'KJo'
-];
+]);
 
-const T_100_0_13bb = [
+const T_100_0_13bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s',
     'KQs', 'KJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o',
     'KQo'
-];
+]);
 
-const T_1_1_13bb = [
+const T_1_1_13bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s',
     'KQs', 'KJs', 'KTs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o',
     'KQo'
-];
+]);
 
-const T_10_1_13bb = [
+const T_10_1_13bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s',
     'KQs', 'KJs',
     'AKo', 'AQo', 'AJo', 'ATo'
-];
+]);
 
-const T_1_2_13bb = [
+const T_1_2_13bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s',
     'KQs',
     'AKo', 'AQo', 'AJo', 'ATo'
-];
+]);
 
 //
 // 14bb
 //
-const T_0_1_14bb = [
+const T_0_1_14bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -1876,9 +1876,9 @@ const T_0_1_14bb = [
     'T9o', 'T8o',
     '98o',
     '87o'
-];
+]);
 
-const T_0_2_14bb = [
+const T_0_2_14bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s',
@@ -1891,9 +1891,9 @@ const T_0_2_14bb = [
     'KQo', 'KJo', 'KTo',
     'QJo', 'QTo',
     'JTo'
-];
+]);
 
-const T_0_3_14bb = [
+const T_0_3_14bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s',
@@ -1904,9 +1904,9 @@ const T_0_3_14bb = [
     'AKo', 'AQo', 'AJo', 'ATo',
     'KQo', 'KJo',
     'QJo'
-];
+]);
 
-const T_1_0_14bb = [
+const T_1_0_14bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s',
@@ -1915,51 +1915,51 @@ const T_1_0_14bb = [
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o', 'A6o', 'A5o', 'A4o', 'A3o', 'A2o',
     'KQo', 'KJo', 'KTo', 'K9o',
     'QJo', 'QTo'
-];
+]);
 
-const T_10_0_14bb = [
+const T_10_0_14bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s',
     'KQs', 'KJs', 'KTs',
     'QJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o',
     'KQo', 'KJo'
-];
+]);
 
-const T_100_0_14bb = [
+const T_100_0_14bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s',
     'KQs', 'KJs',
     'AKo', 'AQo', 'AJo', 'ATo',
     'KQo'
-];
+]);
 
-const T_1_1_14bb = [
+const T_1_1_14bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s',
     'KQs', 'KJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o',
     'KQo'
-];
+]);
 
-const T_10_1_14bb = [
+const T_10_1_14bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s',
     'KQs',
     'AKo', 'AQo', 'AJo', 'ATo'
-];
+]);
 
-const T_1_2_14bb = [
+const T_1_2_14bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66',
     'AKs', 'AQs', 'AJs', 'ATs',
     'KQs',
     'AKo', 'AQo', 'AJo', 'ATo'
-];
+]);
 
 //
 // 15bb
 //
-const T_0_1_15bb = [
+const T_0_1_15bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -1977,9 +1977,9 @@ const T_0_1_15bb = [
     'JTo', 'J9o',
     'T9o', 'T8o',
     '98o'
-];
+]);
 
-const T_0_2_15bb = [
+const T_0_2_15bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s',
@@ -1992,9 +1992,9 @@ const T_0_2_15bb = [
     'KQo', 'KJo', 'KTo',
     'QJo', 'QTo',
     'JTo'
-];
+]);
 
-const T_0_3_15bb = [
+const T_0_3_15bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s',
     'KQs', 'KJs', 'KTs', 'K9s',
@@ -2005,9 +2005,9 @@ const T_0_3_15bb = [
     'AKo', 'AQo', 'AJo', 'ATo',
     'KQo', 'KJo',
     'QJo'
-];
+]);
 
-const T_1_0_15bb = [
+const T_1_0_15bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s',
@@ -2016,51 +2016,51 @@ const T_1_0_15bb = [
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o', 'A6o', 'A5o', 'A4o', 'A3o', 'A2o',
     'KQo', 'KJo', 'KTo', 'K9o',
     'QJo', 'QTo'
-];
+]);
 
-const T_10_0_15bb = [
+const T_10_0_15bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s',
     'KQs', 'KJs', 'KTs',
     'QJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o',
     'KQo', 'KJo'
-];
+]);
 
-const T_100_0_15bb = [
+const T_100_0_15bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s',
     'KQs',
     'AKo', 'AQo', 'AJo', 'ATo',
     'KQo'
-];
+]);
 
-const T_1_1_15bb = [
+const T_1_1_15bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s',
     'KQs', 'KJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o',
     'KQo'
-];
+]);
 
-const T_10_1_15bb = [
+const T_10_1_15bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66',
     'AKs', 'AQs', 'AJs', 'ATs',
     'KQs',
     'AKo', 'AQo', 'AJo', 'ATo'
-];
+]);
 
-const T_1_2_15bb = [
+const T_1_2_15bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66',
     'AKs', 'AQs', 'AJs', 'ATs',
     'KQs',
     'AKo', 'AQo', 'AJo'
-];
+]);
 
 //
 // 16bb
 //
-const T_0_1_16bb = [
+const T_0_1_16bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s', 'K7s', 'K6s', 'K5s', 'K4s', 'K3s', 'K2s',
@@ -2078,9 +2078,9 @@ const T_0_1_16bb = [
     'JTo', 'J9o',
     'T9o', 'T8o',
     '98o'
-];
+]);
 
-const T_0_2_16bb = [
+const T_0_2_16bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s',
@@ -2093,9 +2093,9 @@ const T_0_2_16bb = [
     'KQo', 'KJo', 'KTo',
     'QJo', 'QTo',
     'JTo'
-];
+]);
 
-const T_0_3_16bb = [
+const T_0_3_16bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33', '22',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A5s', 'A4s',
     'KQs', 'KJs', 'KTs', 'K9s',
@@ -2106,9 +2106,9 @@ const T_0_3_16bb = [
     'AKo', 'AQo', 'AJo', 'ATo',
     'KQo', 'KJo',
     'QJo'
-];
+]);
 
-const T_1_0_16bb = [
+const T_1_0_16bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44', '33',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s', 'A4s', 'A3s', 'A2s',
     'KQs', 'KJs', 'KTs', 'K9s', 'K8s',
@@ -2117,44 +2117,44 @@ const T_1_0_16bb = [
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o', 'A7o', 'A6o', 'A5o', 'A4o', 'A3o',
     'KQo', 'KJo', 'KTo', 'K9o',
     'QJo'
-];
+]);
 
-const T_10_0_16bb = [
+const T_10_0_16bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55', '44',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s', 'A7s', 'A6s', 'A5s',
     'KQs', 'KJs', 'KTs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o', 'A8o',
     'KQo'
-];
+]);
 
-const T_100_0_16bb = [
+const T_100_0_16bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s',
     'KQs',
     'AKo', 'AQo', 'AJo', 'ATo'
-];
+]);
 
-const T_1_1_16bb = [
+const T_1_1_16bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66', '55',
     'AKs', 'AQs', 'AJs', 'ATs', 'A9s', 'A8s',
     'KQs', 'KJs',
     'AKo', 'AQo', 'AJo', 'ATo', 'A9o',
     'KQo'
-];
+]);
 
-const T_10_1_16bb = [
+const T_10_1_16bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77', '66',
     'AKs', 'AQs', 'AJs', 'ATs',
     'KQs',
     'AKo', 'AQo', 'AJo'
-];
+]);
 
-const T_1_2_16bb = [
+const T_1_2_16bb = new Set([
     'AA', 'KK', 'QQ', 'JJ', 'TT', '99', '88', '77',
     'AKs', 'AQs', 'AJs', 'ATs',
     'KQs',
     'AKo', 'AQo', 'AJo'
-];
+]);
 
 
 //////////////////////////////////////////////////
@@ -2230,7 +2230,7 @@ const shouldJam = (seats, community, bb = 4) => {
     })();
     const table = eval(tableName);
 
-    return table.includes(myHandRep);
+    return table.has(myHandRep);
 };
 
 //////////
